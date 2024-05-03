@@ -7,6 +7,12 @@
 <h3>About me:</h3>
 <p>I'm 17 years old, I've been passionate about programming since I was 8, I officially entered this world 1 year ago. I always seek knowledge and be the best I can do. Productivity above all.</p>
 
+<h3>Currently Working at:</h3>
+<p align="center">
+  <strong>Front-End Intern at Jorrovi</strong><br>
+  Contributing to building seamless user experiences with a focus on responsive and performant web applications.
+</p>
+
 <h3>Stacks:</h3>
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
