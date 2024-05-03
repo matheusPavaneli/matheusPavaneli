@@ -8,7 +8,7 @@
 <p>I'm 17 years old, I've been passionate about programming since I was 8, I officially entered this world 1 year ago. I always seek knowledge and be the best I can do. Productivity above all.</p>
 
 <h3>Currently Working at:</h3>
-<p align="center">
+<p>
   <strong>Front-End Intern at Jorrovi</strong><br>
   Contributing to building seamless user experiences with a focus on responsive and performant web applications.
 </p>
