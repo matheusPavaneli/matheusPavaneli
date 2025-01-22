@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Matheus Pavaneli</h1>
-<h3 align="center">The best, wait and see.</h3>
+<h3 align="center">An Technology lover, Software Engineer</h3>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Ilustration" width="400px">
+  <a href="https://github.com/matheusPavaneli">
+<img height="170em" style="border: none !important;" src="https://github-readme-stats.vercel.app/api?username=matheusPavaneli&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPavaneli&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <h3>About me:</h3>
@@ -31,3 +34,10 @@
   <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
   <img align="center" alt="graphql" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
+
+<div align="center">
+  
+![snake gif](https://github.com/matheusPavaneli/matheusPavaneli/blob/output/github-snake-dark.svg)
+</div>
+
+
