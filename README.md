@@ -12,8 +12,7 @@
 
 <h3>Currently Working at:</h3>
 <p>
-  <strong>Front-End Intern at Jorrovi</strong><br>
-  Contributing to building seamless user experiences with a focus on responsive and performant web applications.
+  <strong>Freelancer</strong><br>
 </p>
 
 <h3>Stacks:</h3>
