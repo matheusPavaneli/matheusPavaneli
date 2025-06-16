@@ -8,7 +8,7 @@
 </div>
 
 <h3>About me:</h3>
-<p>I'm 17 years old, I've been passionate about programming since I was 8, I officially entered this world 1 year ago. I always seek knowledge and be the best I can do. Productivity above all.</p>
+<p>I'm 18 years old, I've been passionate about programming since I was 8, I officially entered this world 4 year ago. I always seek knowledge and be the best I can do. Productivity above all.</p>
 
 <h3>Currently Working at:</h3>
 <p>
