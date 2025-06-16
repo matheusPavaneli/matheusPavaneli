@@ -13,6 +13,9 @@
 <h3>Currently Working at:</h3>
 <p>
   <strong>Freelancer</strong><br>
+  <p>
+    open for projects.
+  </p>
 </p>
 
 <h3>Stacks:</h3>
