@@ -10,14 +10,6 @@
 <h3>About me:</h3>
 <p>I'm 18 years old, I've been passionate about programming since I was 8, I officially entered this world 4 year ago. I always seek knowledge and be the best I can do. Productivity above all.</p>
 
-<h3>Currently Working at:</h3>
-<p>
-  <strong>Freelancer</strong><br>
-  <p>
-    open for projects.
-  </p>
-</p>
-
 <h3>Stacks:</h3>
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
