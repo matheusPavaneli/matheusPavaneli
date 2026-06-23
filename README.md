@@ -8,7 +8,7 @@
 </div>
 
 <h3>About me:</h3>
-<p>I’m 19 years old and a Senior Software Engineer. I’ve been passionate about programming since I was 8, and I officially entered the field 5 years ago. I’m constantly seeking knowledge, improving my skills, and pushing myself to be the best at what I do. Productivity above all.</p>
+<p>Senior Software Engineer. I’ve been passionate about programming since I was 8, and I officially entered the field 5 years ago. I’m constantly seeking knowledge, improving my skills, and pushing myself to be the best at what I do. Productivity above all.</p>
 
 <h3>Stacks:</h3>
 <div style="display: inline_block">
