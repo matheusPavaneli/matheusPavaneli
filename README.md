@@ -1,54 +1,100 @@
-<h1 align="center">Hi, I'm Matheus Pavaneli</h1>
-<h3 align="center">An Technology lover, Software Engineer</h3>
+<!-- ░░ bespoke animated hero — hand-built SVG, self-hosted in this repo (no third-party card service) ░░ -->
+<p align="center">
+  <img src="./assets/hero.svg" alt="Matheus Pavaneli — Senior Software Engineer" width="100%" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/matheusPavaneli">
-<img height="170em" style="border: none !important;" src="https://github-readme-stats.vercel.app/api?username=matheusPavaneli&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPavaneli&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/role-senior_software_engineer-f5a623?style=flat-square&labelColor=0d1117" alt="role" />
+  <img src="https://img.shields.io/badge/since-age_8-161b22?style=flat-square&labelColor=0d1117&logoColor=f5a623" alt="since" />
+  <img src="https://img.shields.io/badge/in_the_field-6_years-161b22?style=flat-square&labelColor=0d1117" alt="experience" />
+  <img src="https://komarev.com/ghpvc/?username=matheusPavaneli&style=flat-square&color=f5a623&label=profile+views" alt="views" />
+</p>
 
-<h3>About me:</h3>
-<p>Senior Software Engineer. I’ve been passionate about programming since I was 8, and I officially entered the field 6 years ago. I’m constantly seeking knowledge, improving my skills, and pushing myself to be the best at what I do. Productivity above all.</p>
+```text
+┌─ ./about ──────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  Senior software engineer. Programming since 8, in the field for 6 years.    │
+│  I build backends that stay up: event-driven services, queues, and the       │
+│  infrastructure around them. Constantly sharpening, shipping, measuring.      │
+│                                                                              │
+│  › productivity above all                                                    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
-<h3>Stacks:</h3>
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img align="center" alt="react-router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img align="center" alt="nestjs" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-  <img align="center" alt="graphql" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img align="center" alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img align="center" alt="azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img align="center" alt="nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img align="center" alt="kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img align="center" alt="bullmq" src="https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img align="center" alt="rabbitmq" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+## `▸` stack
 
-<div align="center">
-  
-![snake gif](https://github.com/matheusPavaneli/matheusPavaneli/blob/output/github-snake-dark.svg)
-</div>
+<!-- coherent schematic badge set — one palette, amber logos on graphite, matches the hero -->
 
+**languages**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&labelColor=0d1117&logo=javascript&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/PHP-161b22?style=for-the-badge&labelColor=0d1117&logo=php&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&labelColor=0d1117&logo=html5&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&labelColor=0d1117&logo=css3&logoColor=f5a623" />
+</p>
 
+**backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&labelColor=0d1117&logo=nodedotjs&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/NestJS-161b22?style=for-the-badge&labelColor=0d1117&logo=nestjs&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/Express-161b22?style=for-the-badge&labelColor=0d1117&logo=express&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/GraphQL-161b22?style=for-the-badge&labelColor=0d1117&logo=graphql&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/Jest-161b22?style=for-the-badge&labelColor=0d1117&logo=jest&logoColor=f5a623" />
+</p>
+
+**data**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&labelColor=0d1117&logo=postgresql&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&labelColor=0d1117&logo=mysql&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&labelColor=0d1117&logo=mongodb&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&labelColor=0d1117&logo=redis&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/Prisma-161b22?style=for-the-badge&labelColor=0d1117&logo=prisma&logoColor=f5a623" />
+</p>
+
+**messaging &amp; infra**
+<p>
+  <img src="https://img.shields.io/badge/Kafka-161b22?style=for-the-badge&labelColor=0d1117&logo=apachekafka&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/RabbitMQ-161b22?style=for-the-badge&labelColor=0d1117&logo=rabbitmq&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/BullMQ-161b22?style=for-the-badge&labelColor=0d1117&logo=nodedotjs&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&labelColor=0d1117&logo=docker&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/Kubernetes-161b22?style=for-the-badge&labelColor=0d1117&logo=kubernetes&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/Nginx-161b22?style=for-the-badge&labelColor=0d1117&logo=nginx&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&labelColor=0d1117&logo=amazonwebservices&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/Azure-161b22?style=for-the-badge&labelColor=0d1117&logo=microsoftazure&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&labelColor=0d1117&logo=linux&logoColor=f5a623" />
+</p>
+
+**frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&labelColor=0d1117&logo=react&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&labelColor=0d1117&logo=nextdotjs&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/Vue.js-161b22?style=for-the-badge&labelColor=0d1117&logo=vuedotjs&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/Angular-161b22?style=for-the-badge&labelColor=0d1117&logo=angular&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/Redux-161b22?style=for-the-badge&labelColor=0d1117&logo=redux&logoColor=f5a623" />
+  <img src="https://img.shields.io/badge/Tailwind-161b22?style=for-the-badge&labelColor=0d1117&logo=tailwindcss&logoColor=f5a623" />
+</p>
+
+## `▸` telemetry
+
+<!-- stat cards themed to the same graphite+amber palette so the whole page reads as one system -->
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusPavaneli&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f5a623&icon_color=f5a623&text_color=9aa7b4" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPavaneli&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=f5a623&text_color=9aa7b4" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusPavaneli&hide_border=true&background=0d1117&stroke=232a33&ring=f5a623&fire=f5a623&currStreakLabel=f5a623&sideLabels=9aa7b4&currStreakNum=e8edf2&sideNums=e8edf2&dates=5c6773&excludeDaysLabel=5c6773" />
+</p>
+
+## `▸` contribution graph
+
+<!-- snake re-themed to amber to match; generated daily by GitHub Actions (.github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusPavaneli/matheusPavaneli/output/snake-amber.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/matheusPavaneli/matheusPavaneli/output/github-snake.svg" />
+</picture>
+
+<p align="center">
+  <sub>built by hand · <code>./assets/hero.svg</code> is a self-hosted animated SVG, no external card service</sub>
+</p>
