@@ -29,6 +29,7 @@
   <rect width="1000" height="392" fill="#060607"/>
 
   <text x="60" y="46" class="mono head concern" font-size="11">STACK &#8212; BY CONCERN</text>
+  <text x="60" y="66" class="mono head" fill="#565b64" font-size="10.5" letter-spacing=".5">focus &#8212; distributed systems under load &#183; security architecture</text>
   <text x="940" y="46" text-anchor="end" class="serif head" fill="#565b64" font-size="15" font-style="italic">a request, from client to disk</text>
 
   <!-- spine + descending signal -->
@@ -59,7 +60,7 @@
     <g class="row r3">
       <text x="284" y="190" text-anchor="end" class="concern" font-size="10.5">DESIGN</text>
       <circle cx="300" cy="186" r="3.4" fill="#8b9099"/>
-      <text x="322" y="190" class="tech">EDA &#183; Hexagonal &#183; DDD &#183; CQRS &#183; Clean Arch</text>
+      <text x="322" y="190" class="tech">Microservices &#183; EDA &#183; Hexagonal &#183; DDD &#183; CQRS &#183; Serverless</text>
     </g>
     <g class="row r4">
       <text x="284" y="222" text-anchor="end" class="concern" font-size="10.5">MESSAGING</text>
