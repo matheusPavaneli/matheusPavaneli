@@ -9,35 +9,12 @@
 
 <br/>
 
-### Selected work
-
-<table>
-  <tr>
-    <td width="180"><a href="https://github.com/matheusPavaneli/depguard"><b>depguard</b></a></td>
-    <td>Preventive npm dependency risk scoring — registry metadata, lifecycle scripts, OSV, typosquatting heuristics.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/matheusPavaneli/env-validator"><b>env-validator</b></a></td>
-    <td>Validate <code>process.env</code> at startup with a typed schema. All errors at once, TS inference built in, zero deps.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/matheusPavaneli/Azthorize-Auth"><b>Azthorize-Auth</b></a></td>
-    <td>Authentication API with an AES implementation, focused on performance and security.</td>
-  </tr>
-</table>
+<!-- toolkit as a systems cross-section, not a badge wall — grouped by concern, same visual language as the hero -->
+<p align="center">
+  <img src="./assets/stack.svg" alt="Stack by concern — Edge, Runtime, Services, Messaging, State, Platform, Rigor" width="100%" />
+</p>
 
 <br/>
-
-### Toolkit
-
-<sub>
-TypeScript · Node.js · NestJS · Express · GraphQL &nbsp;—&nbsp;
-PostgreSQL · MongoDB · Redis · Prisma &nbsp;—&nbsp;
-Kafka · RabbitMQ · BullMQ &nbsp;—&nbsp;
-Docker · Kubernetes · Nginx · AWS · Azure · Linux
-</sub>
-
-<br/><br/>
 
 <!-- contribution graph, re-themed monochrome to match the hero. generated daily by GitHub Actions. -->
 <picture>
