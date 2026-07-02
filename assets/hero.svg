@@ -58,7 +58,7 @@
 
     <line x1="0" y1="196" x2="210" y2="196" class="rule" stroke="#40444c" stroke-width="1"/>
 
-    <text x="0" y="232" class="mono fade f3" fill="#aeb4bd" font-size="14" letter-spacing="1">senior software engineer</text>
+    <text x="0" y="232" class="mono fade f3" fill="#aeb4bd" font-size="14" letter-spacing="1">senior fullstack engineer</text>
     <text x="0" y="258" class="mono fade f4" fill="#6b7079" font-size="12.5" letter-spacing=".3">building systems that stay up &#8212; queues, events, uptime.</text>
 
     <text x="0" y="316" class="mono fade f5" fill="#4a4f57" font-size="11" letter-spacing="3">PRODUCTIVITY ABOVE ALL</text>
