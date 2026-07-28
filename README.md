@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <code>senior&nbsp;fullstack&nbsp;engineer</code> &nbsp;·&nbsp; <code>distributed&nbsp;systems&nbsp;&amp;&nbsp;security</code> &nbsp;·&nbsp; <code>5+&nbsp;yrs&nbsp;shipping&nbsp;to&nbsp;prod</code>
+  <code>senior&nbsp;fullstack&nbsp;engineer</code> &nbsp;·&nbsp; <code>distributed&nbsp;systems&nbsp;&amp;&nbsp;security</code> &nbsp;·&nbsp; <code>4+&nbsp;yrs&nbsp;shipping&nbsp;to&nbsp;prod</code>
 </p>
 
 <br/>
